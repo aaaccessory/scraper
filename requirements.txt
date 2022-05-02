@@ -1,0 +1,10 @@
+pip~=21.1.1
+wheel~=0.36.2
+setuptools~=56.0.0
+selenium~=3.141.0
+bs4
+webdriver_manager
+requests
+emoji
+clean-text
+unidecode
